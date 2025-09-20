@@ -2,8 +2,10 @@
 
 🚀 **Software Developer | Backend Engineering | Microservices | Fintech Solutions**  
 
-I’m a backend developer with **2.6 years of experience** building scalable applications using **Node.js, Golang, PostgreSQL, and MongoDB**.  
-I specialize in **microservices, RESTful APIs, cloud deployment (AWS, Docker), and fintech integrations**.  
+💻 **Backend Developer with 2.6 years of experience** in **Node.js and Golang**.  
+Skilled in designing **scalable microservices, RESTful APIs, and database systems (PostgreSQL, MongoDB, Redis)**.  
+Experienced in the **fintech domain** with expertise in **API integrations, cloud technologies (AWS, Docker), and CI/CD pipelines**.  
+Strong problem-solving skills with a focus on **performance optimization and system scalability**.
 
 ---
 
