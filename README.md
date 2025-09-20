@@ -15,14 +15,14 @@
 
 ---
 
-## 📌 Featured Projects
-
 ## 💼 Professional Experience
 **Associate Software Developer – New Street Technologies (Feb 2023 – Jul 2025)**  
 - Developed and maintained backend services using **Node.js, Golang, PostgreSQL, MongoDB**.  
 - Built & optimized APIs and microservices for fintech integrations.  
 - Implemented secure banking microservices with API integrations, eSign workflows, and digital onboarding.
 ---
+
+## 📌 Featured Projects
 
 ### [HealthPort – Hospital Appointment Management System](https://github.com/Vinayak-Gouda/Hospital_Backend)
 - Developed **authentication, patient, doctor, and appointment microservices** with Node.js, Express.js, PostgreSQL  
