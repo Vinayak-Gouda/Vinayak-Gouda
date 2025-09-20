@@ -23,7 +23,6 @@ I specialize in **microservices, RESTful APIs, cloud deployment (AWS, Docker), a
 - Developed and maintained backend services using **Node.js, Golang, PostgreSQL, MongoDB**.  
 - Built & optimized APIs and microservices for fintech integrations.  
 - Implemented secure banking microservices with API integrations, eSign workflows, and digital onboarding.
-- 
 ---
 
 ### [HealthPort – Hospital Appointment Management System](https://github.com/Vinayak-Gouda/Hospital_Backend)
