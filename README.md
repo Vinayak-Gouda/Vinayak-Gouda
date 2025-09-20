@@ -8,9 +8,9 @@ I specialize in **microservices, RESTful APIs, cloud deployment (AWS, Docker), a
 ---
 
 ## 🔧 Tech Stack
-- **Languages & Frameworks:** JavaScript (ES6+), Golang, SQL, Node.js, Express.js, Gin, GraphQL, REST APIs  
+- **Languages & Frameworks:** JavaScript (ES6+), Golang, SQL, Node.js, Express.js, Gin, GraphQL, REST APIs, WebSockets (Socket.io), HTML5, CSS3, Swagger  
 - **Databases & Tools:** PostgreSQL, MongoDB, Redis, Sequelize, RabbitMQ  
-- **Cloud & DevOps:** AWS (EC2, S3), Docker, Jenkins (CI/CD), Git, Grafana  
+- **Cloud & DevOps:** AWS (EC2, S3), Docker, Jenkins (CI/CD), Git, Grafana 
 - **Practices & Testing:** Microservices Architecture, Agile (Scrum), Jest, Postman  
 - **Familiar With:** Java, Python  
 
