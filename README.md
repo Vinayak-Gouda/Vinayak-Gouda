@@ -2,7 +2,7 @@
 
 🚀 **Software Developer | Backend Engineering | Microservices | Fintech & iGaming Platforms**
 
-Backend Developer with **3 years of experience** building **scalable backend systems, microservices, and RESTful APIs** using **Node.js, Express.js, and PostgreSQL**. Experienced in developing platforms in **fintech and iGaming domains**, integrating **payment gateways, gaming providers, and third-party services**, and building **real-time systems**.
+Backend Developer with **3 years of experience** building **scalable backend systems, microservices, and RESTful APIs** using **Node.js, Golang, React.js and PostgreSQL**. Experienced in developing platforms in **fintech and iGaming domains**, integrating **payment gateways, gaming providers, and third-party services**, and building **real-time systems**.
 
 Skilled in **PostgreSQL, MongoDB, Redis, AWS, Docker, and CI/CD**, with a strong focus on **performance optimization, scalable backend architecture, and high-concurrency systems**.
 
