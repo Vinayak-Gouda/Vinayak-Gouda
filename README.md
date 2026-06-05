@@ -2,9 +2,9 @@
 
 🚀 **Software Developer | Backend Engineering | Microservices | Fintech & iGaming Platforms**
 
-Backend Developer with **3 years of experience** building **scalable backend systems, microservices, and RESTful APIs** using **Node.js, Golang, React.js and PostgreSQL**. Experienced in developing platforms in **fintech and iGaming domains**, integrating **payment gateways, gaming providers, and third-party services**, and building **real-time systems**.
+Software Engineer with **3 years of experience** building **scalable backend systems, microservices, and RESTful APIs** using **Node.js, Golang, PostgreSQL, MongoDB, and React.js**. Experienced in **fintech and iGaming domains**, developing **payment systems**, integrating **banking APIs, gaming providers, and third-party services**, and building **real-time, high-concurrency applications**.
 
-Skilled in **PostgreSQL, MongoDB, Redis, AWS, Docker, and CI/CD**, with a strong focus on **performance optimization, scalable backend architecture, and high-concurrency systems**.
+Skilled in **PostgreSQL, MongoDB, Redis, AWS (Lambda, EC2, S3), Docker, Jenkins, and CI/CD**, with a strong focus on **distributed systems, cloud-native applications, performance optimization, and scalable software architecture**.
 
 ---
 
@@ -15,10 +15,11 @@ Skilled in **PostgreSQL, MongoDB, Redis, AWS, Docker, and CI/CD**, with a strong
 - Node.js
 - Express.js
 - Golang
+- Gin
+- React.js
 - REST APIs
 - GraphQL
 - WebSockets (Socket.io)
-- Gin
 - HTML5
 - CSS3
 - Swagger
@@ -29,9 +30,10 @@ Skilled in **PostgreSQL, MongoDB, Redis, AWS, Docker, and CI/CD**, with a strong
 - Redis
 - Sequelize
 - RabbitMQ
+- Kafka
 
 ### Cloud & DevOps
-- AWS (EC2, S3)
+- AWS (Lambda, EC2, S3)
 - Docker
 - Jenkins (CI/CD)
 - Git
@@ -52,17 +54,24 @@ Skilled in **PostgreSQL, MongoDB, Redis, AWS, Docker, and CI/CD**, with a strong
 # 💼 Professional Experience
 
 ## Solution Engineer – GammaStack (Oct 2025 – Present)
-- Developed **RESTful APIs and backend services** using **Node.js, Express.js, and PostgreSQL** for an **iGaming platform**.
-- Worked on **Admin and User microservices** handling authentication, wallet management, and transaction processing.
-- Implemented **multi-currency support (fiat, crypto, SC, GC)** and real-time communication using **WebSockets**.
-- Integrated **gaming providers (Alea, Iconic21, LiveGame)** for gameplay.
-- Integrated **third-party services** including **XGate (payments), Twilio (OTP), SendGrid (email), Optimove (CRM), and SEON (KYC/fraud detection)**.
-- Optimized **PostgreSQL queries and APIs** to improve performance in **high-concurrency gaming systems**.
+- Developed scalable RESTful APIs and backend services using **Node.js**, **Express.js**, **Golang**, and **PostgreSQL** for an iGaming platform, implementing authentication, wallet management, transaction processing, and multi-currency support.
+
+- Designed and developed APIs and database schemas for **user rewards systems**, and contributed to **live chat**, **game tournaments**, and **reporting modules** for gameplay activity and financial transactions.
+
+- Integrated third-party gaming providers including **Alea**, **Iconic21**, and **LiveGame** to enable seamless gameplay, while optimizing backend services for faster game launches and result processing.
+
+- Integrated the **XGate payment gateway** to support secure payment processing, deposits, withdrawals, wallet transactions, and reconciliation workflows; integrated **Twilio**, **SendGrid**, **Optimove**, and **SEON** for user communications, CRM automation, identity verification, and fraud prevention.
+
+- Built **socket-based real-time systems** for payments, gameplay events, bonuses, and live chat, while optimizing PostgreSQL queries and backend APIs to reduce latency in a high-concurrency environment.
 
 ## Associate Software Developer – New Street Technologies (Feb 2023 – Jul 2025)
-- Developed backend services using **Node.js, Golang, PostgreSQL, and MongoDB**.
-- Built APIs and microservices for **fintech integrations and digital onboarding systems**.
-- Integrated **banking APIs and eSign workflows (Leegality)** for secure document signing and financial processing.
+- Developed and maintained backend services and RESTful APIs using **Node.js**, **Express.js**, and **Golang**, leveraging **MongoDB** and **PostgreSQL**, while optimizing database queries and improving application performance in monolithic and microservices-based architectures.
+- 
+- Delivered the **end-to-end digital onboarding workflow** by integrating **Leegality eSign APIs** and **OCR services**, automating document data extraction, verification, electronic signing, status tracking, and signed document management.
+
+- Built and maintained **banking and payment-domain services** by integrating banking and payment APIs for **account creation**, **loan disbursement**, **transaction processing**, **fund transfers**, **payment status tracking**, **reconciliation workflows**, and **webhook handling** for secure and reliable financial operations.
+
+- Collaborated with frontend and product teams to implement **React.js** components, integrate backend APIs, resolve application issues, and enhance the digital onboarding experience while using **Git** for version control and collaborative development.
 
 ---
 
