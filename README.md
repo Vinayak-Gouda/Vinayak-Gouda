@@ -53,7 +53,7 @@ Skilled in **PostgreSQL, MongoDB, Redis, AWS (Lambda, EC2, S3), Docker, Jenkins,
 
 # 💼 Professional Experience
 
-## Solution Engineer – GammaStack (Oct 2025 – Present)
+## Solution Engineer – GammaStack (Oct 2025 – April 2026)
 - Developed scalable RESTful APIs and backend services using **Node.js**, **Express.js**, **Golang**, and **PostgreSQL** for an iGaming platform, implementing authentication, wallet management, transaction processing, and multi-currency support.
 
 - Designed and developed APIs and database schemas for **user rewards systems**, and contributed to **live chat**, **game tournaments**, and **reporting modules** for gameplay activity and financial transactions.
@@ -66,7 +66,7 @@ Skilled in **PostgreSQL, MongoDB, Redis, AWS (Lambda, EC2, S3), Docker, Jenkins,
 
 ## Associate Software Developer – New Street Technologies (Feb 2023 – Jul 2025)
 - Developed and maintained backend services and RESTful APIs using **Node.js**, **Express.js**, and **Golang**, leveraging **MongoDB** and **PostgreSQL**, while optimizing database queries and improving application performance in monolithic and microservices-based architectures.
-- 
+  
 - Delivered the **end-to-end digital onboarding workflow** by integrating **Leegality eSign APIs** and **OCR services**, automating document data extraction, verification, electronic signing, status tracking, and signed document management.
 
 - Built and maintained **banking and payment-domain services** by integrating banking and payment APIs for **account creation**, **loan disbursement**, **transaction processing**, **fund transfers**, **payment status tracking**, **reconciliation workflows**, and **webhook handling** for secure and reliable financial operations.
@@ -83,11 +83,35 @@ A real-time online gaming platform supporting **wallet-based gameplay, multiple 
 ## 💰 Darwin – Joint Liability Group Loan Management System
 A **microservices-based financial platform** used to manage **digital onboarding, group loans, document signing, and secure loan processing**.
 
+
+## 🚀 Task Management System
+
+**Repository:** https://github.com/Vinayak-Gouda/Task_Management_System
+
+- Developed a scalable backend task management system using **Golang**, **Gin**, **GORM**, and **PostgreSQL**, exposing RESTful APIs for task management operations.
+
+- Designed and implemented task creation, retrieval, update, and deletion workflows with robust validation, structured error handling, and database persistence.
+
+- Designed and optimized the **PostgreSQL** database schema using **GORM**, ensuring efficient query execution, maintainability, and extensibility of the application.
+
+## 🔗 Serverless URL Encoder
+
+**Repository:** https://github.com/Vinayak-Gouda/serverless---url_encoder
+
+- Built a serverless URL encoding and shortening service using **Node.js**, **AWS Lambda**, **Serverless Framework**, **Sequelize**, and **PostgreSQL**.
+
+- Implemented RESTful APIs for generating, storing, and resolving shortened URLs, with robust validation and error handling.
+
+- Designed a scalable serverless architecture with **AWS Lambda** and **PostgreSQL**, enabling efficient API execution and simplified cloud deployment.
+
 ## 🏥 HealthPort – Hospital Appointment Management System
-🔗 https://github.com/Vinayak-Gouda/Hospital_Backend
+
+**Repository:**  https://github.com/Vinayak-Gouda/Hospital_Backend
 
 - Developed **authentication, patient, doctor, and appointment microservices** using **Node.js, Express.js, PostgreSQL**.
+  
 - Implemented **real-time notifications** using **WebSockets (Socket.io)**.
+  
 - Used **Redis and RabbitMQ** for caching and asynchronous task processing.
 
 ---
