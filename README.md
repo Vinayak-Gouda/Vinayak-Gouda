@@ -33,8 +33,9 @@ Skilled in **PostgreSQL, MongoDB, Redis, AWS (Lambda, EC2, S3), Docker, Jenkins,
 - Kafka
 
 ### Cloud & DevOps
-- AWS (Lambda, EC2, S3)
+- AWS (Lambda, EC2, S3, ECR ECS, EKS, cloudWatch)
 - Docker
+- Kubernetes
 - Jenkins (CI/CD)
 - Git
 - Grafana
